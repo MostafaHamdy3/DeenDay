@@ -1,0 +1,21 @@
+{
+  "welcome": "مرحبا بعودتك",
+  "loginToContinue": "يرجى تسجيل الدخول للاستمرار",
+  "login": "تسجيل الدخول",
+  "signup": "إنشاء حساب",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "enterEmail": "أدخل بريدك الإلكتروني",
+  "enterPassword": "أدخل كلمة المرور",
+  "createAccount": "إنشاء حساب جديد",
+  "dontHaveAccount": "ليس لديك حساب؟",
+  "alreadyHaveAccount": "لديك حساب بالفعل؟",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "appName": "DeenDay",
+  "organizeDayElevateDeen": "نظم يومك، ارتقِ بدينك",
+  "pleaseLoginToContinue": "يرجى تسجيل الدخول للمتابعة",
+  "loginSuccessful": "تم تسجيل الدخول بنجاح!",
+  "signupSuccessful": "تم إنشاء الحساب بنجاح!",
+  "invalidCredentials": "بريد إلكتروني أو كلمة مرور غير صحيحة",
+  "fieldRequired": "هذا الحقل مطلوب"
+}

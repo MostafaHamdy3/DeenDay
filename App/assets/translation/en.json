@@ -1,0 +1,21 @@
+{
+  "welcome": "Welcome Back",
+  "loginToContinue": "Please login to continue",
+  "login": "Login",
+  "signup": "Sign Up",
+  "email": "Email",
+  "password": "Password",
+  "enterEmail": "Enter your email",
+  "enterPassword": "Enter your password",
+  "createAccount": "Create Account",
+  "dontHaveAccount": "Don't have an account?",
+  "alreadyHaveAccount": "Already have an account?",
+  "forgotPassword": "Forgot Password?",
+  "appName": "DeenDay",
+  "organizeDayElevateDeen": "Organize your day, elevate your Deen",
+  "pleaseLoginToContinue": "Please login to continue",
+  "loginSuccessful": "Login successful!",
+  "signupSuccessful": "Account created successfully!",
+  "invalidCredentials": "Invalid email or password",
+  "fieldRequired": "This field is required"
+}
