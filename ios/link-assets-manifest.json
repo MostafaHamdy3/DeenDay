@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Quicksand-Bold.ttf",
+      "sha1": "07ca4486c80653a7f3abc18145c2f251d5c9989b"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Medium.ttf",
+      "sha1": "9cbdd6785519aa2d85ee58cb5101ea9dbff8652f"
+    },
+    {
+      "path": "assets/fonts/SourceSans3-Bold.ttf",
+      "sha1": "a993d50429a5d7c6defdee0e9dddb9afe94c098f"
+    },
+    {
+      "path": "assets/fonts/SourceSans3-Medium.ttf",
+      "sha1": "e71fd5d17b04768a0667cf5cb1e637d8c780103d"
+    },
+    {
+      "path": "assets/fonts/SourceSans3-Regular.ttf",
+      "sha1": "9b68aa1db60830073d1429a87e8ff0be48f0718d"
+    },
+    {
+      "path": "assets/fonts/Tajawal-Bold.ttf",
+      "sha1": "e08459c45d81723a0275d1940c39b2c53f6e677c"
+    },
+    {
+      "path": "assets/fonts/Tajawal-Medium.ttf",
+      "sha1": "954396d7663dd20680830524a5c83d98e349f3c2"
+    },
+    {
+      "path": "assets/fonts/Tajawal-Regular.ttf",
+      "sha1": "c13a0a9b2d0deb648b29442ac81a56516153f201"
+    }
+  ]
+}

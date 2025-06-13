@@ -1,26 +1,17 @@
 import React from 'react';
-import {
-  StatusBar,
-  StyleSheet,
-  Text,
-  View,
-} from 'react-native';
+import {StatusBar, Text, View} from 'react-native';
+
+import './global.css';
 
 function App(): React.JSX.Element {
   return (
     <View>
       <StatusBar barStyle={'dark-content'} />
-      <Text style={styles.text}>DeenDay</Text>
+      <Text className={textStyle}>DeenDay</Text>
     </View>
   );
 }
 
-const styles = StyleSheet.create({
-  text: {
-    fontSize: 20,
-    fontWeight: 'bold',
-    color: '#333',
-  },
-});
+const textStyle = 'text-2xl font-bold text-center mt-10';
 
 export default App;
